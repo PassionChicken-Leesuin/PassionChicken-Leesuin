@@ -1,10 +1,9 @@
 ### Hi, my name is Suin Lee 👋 
 
-**Field of interests**: LLM, Data Intelligence
+**Field of interests**: Lang Chain, Data Intelligence
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                         Python, SQL, R
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch
 
 ### Work experience 👔
 | Job Position                  | Company                    | Field                         | Work Period           |
