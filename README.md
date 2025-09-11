@@ -1,6 +1,6 @@
 ### Hi, my name is Suin Lee 👋 
 
-**Field of interests**: LangChain, Data Intelligence
+**Field of interests**: Data Intelligence, LangChain 
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                         Python, SQL, R
