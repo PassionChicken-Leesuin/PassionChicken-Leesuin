@@ -6,11 +6,8 @@
 
 **Field of interests**: LLM, Data Intelligence
 
-
-<!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
-
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Python, SQL, R
+- **Languages**: &nbsp;                         Python, SQL, R
 - **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Git
@@ -21,7 +18,7 @@
 |  Undergraduate Researcher     | T&DI, KHU                  | Data Intelligence             | 2024-12 — 2025-08     |
 
 ### Education 🎓
-- [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ Kyung Hee University (2020-03 - 2026-02)
+- Bachelor's Degree @Kyung Hee University (2020-03 - 2026-02)
 
 ### Publications 📚
 - *A Text Mining-Based Technology Trend Analysis Framework* — Korean Innovation Society (KCI indexed), **First Author** (Submitted in Sep. 2025)
