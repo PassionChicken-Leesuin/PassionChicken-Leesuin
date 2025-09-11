@@ -1,7 +1,3 @@
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
-
 ### Hi, my name is Suin Lee 👋 
 
 **Field of interests**: LLM, Data Intelligence
