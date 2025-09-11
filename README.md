@@ -4,14 +4,12 @@
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                         Python, SQL, R
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spark
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Git
+- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch
 
 ### Work experience 👔
 | Job Position                  | Company                    | Field                         | Work Period           |
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-|  Undergraduate Researcher     | T&DI, KHU                  | Data Intelligence             | 2024-12 — 2025-08     |
+|  Undergraduate Researcher     | T&DI, KHU                  | Data Intelligence             | 2024.12 — 2025.08     |
 
 ### Education 🎓
 - Bachelor's Degree @Kyung Hee University (2020-03 - 2026-02)
