@@ -1,6 +1,6 @@
 ### Hi, my name is Suin Lee 👋 
 
-**Field of interests**: Data Intelligence, LangChain 
+**Field of interests**: Patent Analysis, Data Intelligence, LangChain 
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                         Python, SQL, R
@@ -19,6 +19,7 @@
 - *Energy Storage System and Its Operating Method* — Patent No. 10-2574696 (Registered in Aug. 2023)
 
 ### Achievements 🏆
+- Exellence Award - Campus Patent Universiade, Sep. 2025
 - 3rd Place — Intercollegiate AI/ML Conference (Bitamin), Sep. 2025  
 - 1st Place — Intercollegiate AI/ML Conference (Bitamin), Feb. 2025  
 - 1st Place — Kyung Hee University Valley Up Program, Jan. 2025  
