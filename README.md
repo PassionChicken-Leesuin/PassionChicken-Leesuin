@@ -12,13 +12,15 @@
 
 ### Education 🎓
 - Bachelor's Degree @Kyung Hee University (2020-03 - 2026-02)
+- Master’s Degree @Seoul National University (2026-02 ~ )
 
 ### Publications 📚
-- *A Text Mining-Based Technology Trend Analysis Framework* — Korean Innovation Society (KCI indexed), **First Author** (Submitted in Sep. 2025)
+- *A Text Mining-Based Technology Trend Analysis Framework* — Korean Innovation Society (KCI indexed), **First Author** (Submitted in Dec. 2025)
 - *Deciphering the Impact of COVID-19 on Korean Sector ETFs* — *Systems* (SSCI indexed), **Co-First Author** (Published in Aug. 2025)
 - *Energy Storage System and Its Operating Method* — Patent No. 10-2574696 (Registered in Aug. 2023)
 
 ### Achievements 🏆
+- 2st Place — Intercollegiate AI/ML Conference (Bitamin), Dec. 2025 
 - Exellence Award - Campus Patent Universiade, Sep. 2025
 - 3rd Place — Intercollegiate AI/ML Conference (Bitamin), Sep. 2025  
 - 1st Place — Intercollegiate AI/ML Conference (Bitamin), Feb. 2025  
@@ -35,11 +37,11 @@
 - Academic Excellence Scholarship (3rd place), Dept. of Industrial and Management Engineering, Feb. 2024  
 
 ### Extracurricular Activity ✨
-- **Undergraduate AI/ML Club Alliance “Bitamin”** — Member (Aug. 2024 – Sep. 2025)  
+- **Undergraduate AI/ML Club Alliance “Bitamin”** — Member (Aug. 2024 – Dec. 2025)  
   • Conducted weekly study sessions on deep learning and machine learning  
   • Completed 3 AI projects (CV, Gen AI, Causal Inference) and participated in conference  
 
-- **Student Council, Industrial and Management Engineering, Kyung Hee Univ.** — Student President (Jan. 2024 – Dec. 2024; Jan. 2025 – Present)  
+- **Student Council, Industrial and Management Engineering, Kyung Hee Univ.** — Student President (Jan. 2024 – Dec. 2024)  
   • Organized 9 departmental events, including a collaboration with Hyundai Steel  
   • Published a monthly magazine on departmental issues, including the special feature “Industrial Engineering Roadmap”  
 
@@ -47,6 +49,6 @@
   • Participated annually in competitions by researching global current issues, creating PPTs, and delivering presentations  
   • Developed advanced skills in presentation design and public speaking  
 
-- **Dance Teams Halles / FL:ex / ADELEMI, Kyung Hee Univ.** — Team Leader (Jan. 2020 – Present)  
+- **Dance Teams Halles / FL:ex / ADELEMI, Kyung Hee Univ.** — Team Leader (Jan. 2020 – Nov. 2025)  
   • Strengthened teamwork and leadership by fostering a collaborative environment  
   • Improved problem-solving and communication skills by accommodating members’ opinions and adjusting schedules accordingly  
