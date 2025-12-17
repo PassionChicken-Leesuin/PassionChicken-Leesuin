@@ -1,14 +1,15 @@
 ### Hi, my name is Suin Lee 👋 
 
-**Field of interests**: Patent Analysis, Data Intelligence, LangChain 
+**Field of interests**: Patent Analysis, Data Intelligence, RAG
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                         Python, SQL, R
 
 ### Work experience 👔
-| Job Position                  | Company                    | Field                         | Work Period           |
-| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-|  Undergraduate Researcher     | T&DI, KHU                  | Data Intelligence             | 2024.12 — 2025.08     |
+| Job Position                             | Company                    | Field                         | Work Period           |
+| ---------------------------------------- | -------------------------- | ----------------------------- | --------------------- |
+|  Undergraduate Researcher                | T&DI, KHU                  | Data Intelligence             | 2024.12 — 2025.08     |
+|  Project Leader & Teaching Assistant     | Scopelabs                  | Generative AI Education       | 2025.08 — 2025.12     |
 
 ### Education 🎓
 - Bachelor's Degree @Kyung Hee University (2020-03 - 2026-02)
