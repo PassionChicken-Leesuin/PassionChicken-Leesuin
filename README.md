@@ -1,33 +1,36 @@
 ### Hi, my name is Suin Lee 👋 
 
-**Field of interests**: Patent Analysis, Data Intelligence, RAG
+**Field of interests**: Patent Analysis, Data Intelligence, LLM, RAG
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                         Python, SQL, R
 
 ### Work experience 👔
-| Job Position                             | Company                    | Field                         | Work Period           |
-| ---------------------------------------- | -------------------------- | ----------------------------- | --------------------- |
-|  Undergraduate Researcher                | T&DI, KHU                  | Data Intelligence             | 2024.12 — 2025.08     |
-|  Project Leader & Teaching Assistant     | Scopelabs                  | Generative AI Education       | 2025.08 — 2025.12     |
+| Job Position                                       | Company                    | Field                         | Work Period           |
+| -------------------------------------------------- | -------------------------- | ----------------------------- | --------------------- |
+|  Undergraduate Researcher                          | KyungHee Univ.             | Data Intelligence             | 2024.12 — 2025.08     |
+|  LLM Agent Project Leader & Teaching Assistant     | Scopelabs                  | Generative AI Education       | 2025.08 — 2025.12     |
+|  Lab Intern                                        | Gachon Univ.               | Financial Engineering         | 2026.01 — 2026.02     |
+|  Researcher                                        | Seoul National Univ.       | AI & Data Intelligence        | 2026.03 —             |
 
 ### Education 🎓
 - Bachelor's Degree @Kyung Hee University (2020-03 - 2026-02)
 - Master’s Degree @Seoul National University (2026-02 ~ )
 
 ### Publications 📚
-- *A Text Mining-Based Technology Trend Analysis Framework* — Korean Innovation Society (KCI indexed), **First Author** (Submitted in Dec. 2025)
+- *A Text Mining-Based Technology Trend Analysis Framework* — Korean Innovation Society (KCI indexed), **First Author** (Submitted in Jan. 2026)
 - *Deciphering the Impact of COVID-19 on Korean Sector ETFs* — *Systems* (SSCI indexed), **Co-First Author** (Published in Aug. 2025)
 - *Energy Storage System and Its Operating Method* — Patent No. 10-2574696 (Registered in Aug. 2023)
 
 ### Achievements 🏆
 - 2st Place — Intercollegiate AI/ML Conference (Bitamin), Dec. 2025 
-- Exellence Award - Campus Patent Universiade, Sep. 2025
+- KIPA Chairman’s Award - Campus Patent Universiade, Sep. 2025
 - 3rd Place — Intercollegiate AI/ML Conference (Bitamin), Sep. 2025  
 - 1st Place — Intercollegiate AI/ML Conference (Bitamin), Feb. 2025  
 - 1st Place — Kyung Hee University Valley Up Program, Jan. 2025  
 - 4th Place — NH Investment Securities Big Data and AI Contest, Dec. 2024  
-- 1st Place — Kyung Hee University Valley Up Program, Jan. 2024  
+- 1st Place — Kyung Hee University Valley Up Program, Jan. 2024 
+- Excellence Case — Gyeonggi Youth Gap Year Program (Engineering Track), Dec. 2023
 - Excellence Award — KT Big Data-Based Consulting Competition for Small Business Stores, Dec. 2023  
 
 ### Scholarships 🎖
@@ -38,7 +41,7 @@
 - Academic Excellence Scholarship (3rd place), Dept. of Industrial and Management Engineering, Feb. 2024  
 
 ### Extracurricular Activity ✨
-- **Undergraduate AI/ML Club Alliance “Bitamin”** — Member (Aug. 2024 – Dec. 2025)  
+- **Undergraduate AI/ML Club Alliance “Bitamin”** — Member (Aug. 2024 – Feb. 2026)  
   • Conducted weekly study sessions on deep learning and machine learning  
   • Completed 3 AI projects (CV, Gen AI, Causal Inference) and participated in conference  
 
