@@ -8,10 +8,10 @@
 ### Work experience 👔
 | Job Position                                       | Company                    | Field                         | Work Period           |
 | -------------------------------------------------- | -------------------------- | ----------------------------- | --------------------- |
-|  Undergraduate Researcher                          | KyungHee Univ.             | Data Intelligence             | 2024.12 — 2025.08     |
+|  Undergraduate Researcher                          | KyungHee Univ.             | Tech & Data Intelligence      | 2024.12 — 2025.08     |
 |  LLM Agent Project Leader & Teaching Assistant     | Scopelabs                  | Generative AI Education       | 2025.08 — 2025.12     |
 |  Lab Intern                                        | Gachon Univ.               | Financial Engineering         | 2026.01 — 2026.02     |
-|  Researcher                                        | Seoul National Univ.       | AI & Data Intelligence        | 2026.03 —             |
+|  Researcher                                        | Seoul National Univ.       | Service Innovation            | 2026.03 —             |
 
 ### Education 🎓
 - Bachelor's Degree @Kyung Hee University (2020-03 - 2026-02)
