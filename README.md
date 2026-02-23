@@ -10,20 +10,22 @@
 | -------------------------------------------------- | -------------------------- | ----------------------------- | --------------------- |
 |  Undergraduate Researcher                          | KyungHee Univ.             | Tech & Data Intelligence      | 2024.12 — 2025.08     |
 |  LLM Agent Project Leader & Teaching Assistant     | Scopelabs                  | Generative AI Education       | 2025.08 — 2025.12     |
-|  Lab Intern                                        | Gachon Univ.               | Financial Engineering         | 2026.01 — 2026.02     |
+|  Lab Intern                                        | Gachon Univ.               | Financial Engineering         | 2025.12 — 2026.03     |
 |  Researcher                                        | Seoul National Univ.       | Service Innovation            | 2026.03 —             |
+|  Data Analysis Task Force                          | Genuine Energy Solution    | HVAC & AI Control             | 2026.03 —             |
 
 ### Education 🎓
 - Bachelor's Degree @Kyung Hee University (2020-03 - 2026-02)
 - Master’s Degree @Seoul National University (2026-02 ~ )
 
 ### Publications 📚
-- *A Text Mining-Based Technology Trend Analysis Framework* — Korean Innovation Society (KCI indexed), **First Author** (Submitted in Jan. 2026)
+- *A Text Mining-Based Technology Trend Analysis Framework* — Korean Innovation Society (KCI indexed), **First Author** (Published in Mar. 2026)
 - *Deciphering the Impact of COVID-19 on Korean Sector ETFs* — *Systems* (SSCI indexed), **Co-First Author** (Published in Aug. 2025)
 - *Energy Storage System and Its Operating Method* — Patent No. 10-2574696 (Registered in Aug. 2023)
 
 ### Achievements 🏆
-- 2st Place — Intercollegiate AI/ML Conference (Bitamin), Dec. 2025 
+- 1st Place — Intercollegiate AI/ML Conference (Bitamin), Feb. 2026
+- 2nd Place — Intercollegiate AI/ML Conference (Bitamin), Dec. 2025 
 - KIPA Chairman’s Award - Campus Patent Universiade, Sep. 2025
 - 3rd Place — Intercollegiate AI/ML Conference (Bitamin), Sep. 2025  
 - 1st Place — Intercollegiate AI/ML Conference (Bitamin), Feb. 2025  
