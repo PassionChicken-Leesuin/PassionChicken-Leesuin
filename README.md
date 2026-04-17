@@ -43,18 +43,18 @@
 - Academic Excellence Scholarship (3rd place), Dept. of Industrial and Management Engineering, Feb. 2024  
 
 ### Extracurricular Activity ✨
-- **Undergraduate AI/ML Club Alliance “Bitamin”** — Member (Aug. 2024 – Feb. 2026)  
+- **Undergraduate AI/ML Club Alliance “Bitamin”** — **Member** (Aug. 2024 – Feb. 2026)  
   • Conducted weekly study sessions on deep learning and machine learning  
   • Completed 3 AI projects (CV, Gen AI, Causal Inference) and participated in conference  
 
-- **Student Council, Industrial and Management Engineering, Kyung Hee Univ.** — Student President (Jan. 2024 – Dec. 2024)  
+- **Student Council, Industrial and Management Engineering, Kyung Hee Univ.** — **Student President** (Jan. 2024 – Dec. 2024)  
   • Organized 9 departmental events, including a collaboration with Hyundai Steel  
   • Published a monthly magazine on departmental issues, including the special feature “Industrial Engineering Roadmap”  
 
-- **Academic Presentation, PPT Club “The Press Zone”, Kyung Hee Univ.** — Member (President, Fall 2023) (Mar. 2020 – Present)  
+- **Academic Presentation, PPT Club “The Press Zone”, Kyung Hee Univ.** — **Member (President, Fall 2023)** (Mar. 2020 – Present)  
   • Participated annually in competitions by researching global current issues, creating PPTs, and delivering presentations  
   • Developed advanced skills in presentation design and public speaking  
 
-- **Dance Teams Halles / FL:ex / ADELEMI, Kyung Hee Univ.** — Team Leader (Jan. 2020 – Nov. 2025)  
+- **Dance Teams Halles / FL:ex / ADELEMI, Kyung Hee Univ.** — **Team Leader** (Jan. 2020 – Nov. 2025)  
   • Strengthened teamwork and leadership by fostering a collaborative environment  
   • Improved problem-solving and communication skills by accommodating members’ opinions and adjusting schedules accordingly  
