@@ -11,7 +11,7 @@
 |  Data Analysis Task Force                          | Genuine Energy Solution    | HVAC & AI Control             | 2026.03 —             |
 |  Researcher                                        | Seoul National Univ.       | Service Innovation            | 2026.03 —             |
 |  Lab Intern                                        | Gachon Univ.               | Financial Engineering         | 2025.12 — 2026.03     |
-|  LLM Agent Project Leader & Teaching Assistant     | Scopelabs                  | Generative AI Education       | 2025.08 — 2025.12     |
+|  LLM Agent Project Mentor & Teaching Assistant     | Scopelabs                  | Generative AI Education       | 2025.08 — 2025.12     |
 |  Undergraduate Researcher                          | KyungHee Univ.             | Tech & Data Intelligence      | 2024.12 — 2025.08     |
 
 ### Education 🎓
